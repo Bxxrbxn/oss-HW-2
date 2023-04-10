@@ -2,7 +2,15 @@
 # return sum
 def plus(x, y):
     return x+y
-
+# return sub
+def minus(x, y):
+    return x-y
+# return prdt
+def multi(x, y):
+    return x*y
+# return quot
+def divide(x, y):
+    return x/y
 # main function
 def main():
     check = 1
